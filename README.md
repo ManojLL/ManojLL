@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 
 ![ManojLL's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManojLL&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManojLL&layout=compact)](https://github.com/ManojLL/github-readme-stats)
