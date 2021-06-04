@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 <!--- - 🤔 I’m looking for help with ... -->
 <!--- - 💬 Ask me about ... -->
 - 📫 How to reach me:[ Linkedin](https://www.linkedin.com/in/manoj-lakshan-ba670318a/)
+- 📚 Read my blogs : [median blogs](https://manojlakshan421.medium.com/)
 <!--- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
