@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://www.linkedin.com/in/manoj-lakshan-ba670318a/">Manoj Rathnapriya!</a></h1>
-<h3 align="center">Code is my language, and technology is my canvas. As a Tech Enthusiast and Coding Maverick 🚀</h3>
+<h3 align="center">Code is my language, and technology is my canvas.</h3>
 
 <!---[![Youtube](https://img.shields.io/static/v1?label=AnjulaShanaka&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube] --->
 [![GitHub followers](https://img.shields.io/github/followers/ManojLL?logo=GitHub&style=for-the-badge)][github]
