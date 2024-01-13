@@ -80,6 +80,7 @@
 ### 📚 &ensp;Latest Medium Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [The art of code reviewing](https://manojlakshan421.medium.com/the-art-of-code-reviewing-6265277c2e37)
 - [The first step to Machine learning](https://manojlakshan421.medium.com/the-first-step-to-machine-learning-bf31c2565d0)
 - [REST API using Spring Boot and PostgreSQL with my learning experience](https://medium.com/@manojlakshan421/rest-api-using-spring-boot-and-postgresql-with-my-learning-experience-c33542174e69)
 
