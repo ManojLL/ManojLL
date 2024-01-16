@@ -6,7 +6,7 @@
 [![Linkedin: anjula-sack](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/manoj-lakshan-ba670318a/)][linkedin]
 [![Medium: your-manojlakshan421](https://img.shields.io/badge/-FOLLOW-black?style=for-the-badge&logo=Medium&labelColor=222&color=black&link=https://medium.com/@manojlakshan421)][medium]
 
-- 📚 Engineer - Technology at [EvonSys](https://www.evonsys.com/)
+<!--- 📚 Engineer - Technology at [EvonSys](https://www.evonsys.com/)-->
 - 🏫 BEng (Hons) Software Engineering - University Of Westminster
 <!-- ⚡ &ensp;Fun fact: I'm an Intial D fan and a beginner guitar player-->
 - 📫 &ensp;How to reach me: [**Linkedin**][linkedin]
