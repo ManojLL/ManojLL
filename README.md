@@ -80,7 +80,9 @@
 ### 📚 &ensp;Latest Medium Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [GSoC Week 1: Kickoff With An Amazing Orientation Session](https://manojlakshan421.medium.com/the-art-of-code-reviewing-6265277c2e37](https://manojlakshan421.medium.com/gsoc-week-1-kickoff-with-an-amazing-orientation-session-559093e3510f )
+- [GSoC’24 Week 03: Updates from My GSoC Journey](https://manojlakshan421.medium.com/gsoc24-week-03-updates-from-my-gsoc-journey-e11a47ecc5db))
+- [GSoC’24 Week 02: My First Task In GSoC](https://manojlakshan421.medium.com/gsoc24-week-02-my-first-task-in-gsoc-ddf8c8507884)
+- [GSoC Week 1: Kickoff With An Amazing Orientation Session](https://manojlakshan421.medium.com/gsoc-week-1-kickoff-with-an-amazing-orientation-session-559093e3510f)
 - [The art of code reviewing](https://manojlakshan421.medium.com/the-art-of-code-reviewing-6265277c2e37)
 - [The first step to Machine learning](https://manojlakshan421.medium.com/the-first-step-to-machine-learning-bf31c2565d0)
 - [REST API using Spring Boot and PostgreSQL with my learning experience](https://medium.com/@manojlakshan421/rest-api-using-spring-boot-and-postgresql-with-my-learning-experience-c33542174e69)
